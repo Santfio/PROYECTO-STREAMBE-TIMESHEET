@@ -1,4 +1,4 @@
-const API = 'http://localhost:4000';
+const API = 'https://proyecto-streambe-timesheet.onrender.com';
 
 export async function login(email, password) {
   const res = await fetch(`${API}/auth/login`, {

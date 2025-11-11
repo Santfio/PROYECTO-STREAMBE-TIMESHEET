@@ -1,6 +1,6 @@
 # Timesheet App
 
-Bienvenido/a al Timesheet App, una aplicación web diseñada para registrar y organizar tus horas de trabajo de forma rápida, clara y accesible.  
+Bienvenido al Timesheet App, una aplicación web diseñada para registrar y organizar tus horas de trabajo de forma rápida, clara y accesible.  
 La idea principal de este proyecto es ofrecer una herramienta sencilla para que cualquier persona o equipo pueda llevar un control básico de tiempo sin depender de hojas de cálculo ni configuraciones complicadas.
 
 Timesheet App te permite iniciar sesión con una cuenta de demostración, cargar tus horas trabajadas indicando la fecha, el proyecto y una breve descripción, y consultar o eliminar los registros cuando sea necesario.  
